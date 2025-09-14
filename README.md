@@ -12,6 +12,12 @@ Environment variables support (.env file)
 
 API integration ready (e.g., OpenAI, Groq)
 
+
+<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/67ac36c6-e210-4668-aac7-c9a49d4727b3" />
+<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/4a5d74a7-d51c-4f43-a8d1-a94062ec1476" />
+<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/ec0e1c69-1a07-4ba6-9e12-390d6a9669e0" />
+
+
 🛠️ Tech Stack
 
 Backend: Node.js / Python (choose your stack)
